@@ -381,9 +381,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "GDN",
-        "nets": [
-          "GND"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 2.54,
@@ -400,8 +398,7 @@
       "-12V": "rgb(8, 0, 255)",
       "/L1": "rgb(0, 255, 255)",
       "/L2": "rgb(194, 0, 194)",
-      "/L3": "rgb(132, 132, 132)",
-      "GND": "rgb(34, 255, 4)"
+      "/L3": "rgb(132, 132, 132)"
     }
   },
   "pcbnew": {
